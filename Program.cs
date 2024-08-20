@@ -7,4 +7,7 @@
             a = a + i * i - (i - 1) * (i - 1);
         }
         Console.WriteLine(a);
+
+
+        // Nodir doda bitch
     
