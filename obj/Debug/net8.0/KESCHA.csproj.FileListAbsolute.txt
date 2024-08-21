@@ -12,3 +12,4 @@ D:\VSCode (mohirdev)\KESCHA\obj\Debug\net8.0\refint\KESCHA.dll
 D:\VSCode (mohirdev)\KESCHA\obj\Debug\net8.0\KESCHA.pdb
 D:\VSCode (mohirdev)\KESCHA\obj\Debug\net8.0\KESCHA.genruntimeconfig.cache
 D:\VSCode (mohirdev)\KESCHA\obj\Debug\net8.0\ref\KESCHA.dll
+D:\VSCode (mohirdev)\KESCHA\obj\Debug\net8.0\KESCHA.sourcelink.json

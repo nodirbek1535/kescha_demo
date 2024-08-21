@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KESCHA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c035be570105468b4adb02e12d83cb50e68f1141")]
 [assembly: System.Reflection.AssemblyProductAttribute("KESCHA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KESCHA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
